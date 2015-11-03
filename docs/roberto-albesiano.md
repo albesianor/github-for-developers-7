@@ -5,3 +5,4 @@
 - **Favorite food:** Pizza
 - **Hobby:** Playing guitar
 - **Favorite color:** Red
+- **Current location:** Padua
